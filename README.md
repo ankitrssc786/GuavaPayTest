@@ -10,3 +10,9 @@ INSERT INTO testdb.roles(name) VALUES('ROLE_COURIER');
 INSERT INTO testdb.roles(name) VALUES('ROLE_ADMIN');
 
 4. Later can be use access token to use API for authentication.
+
+![image](https://user-images.githubusercontent.com/57948916/197193298-b969e850-42a8-42e3-bc48-239af6d16969.png)
+
+
+![image](https://user-images.githubusercontent.com/57948916/197193478-ad5f9f61-1285-4db3-886a-d2c540e051af.png)
+

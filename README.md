@@ -8,3 +8,5 @@ Assignment given by guava pay test
 INSERT INTO testdb.roles(name) VALUES('ROLE_USER');
 INSERT INTO testdb.roles(name) VALUES('ROLE_COURIER');
 INSERT INTO testdb.roles(name) VALUES('ROLE_ADMIN');
+
+4. Later can be use access token to use API for authentication.
